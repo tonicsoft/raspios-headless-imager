@@ -1,0 +1,5 @@
+user         = "XXX"
+password     = "XXX"
+wifiSsid     = "XXX"
+wifiPassword = "XXX"
+sshPublicKey = "ssh-ed25519 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx example@example.com"
